@@ -1,0 +1,1 @@
+# Simulasi-Gerak-Lurus-Beraturan-menggunakan-Microsoft-Excel
